@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.mfki" name="MFKI Repository" version="0.1" provider-name="mfki">
+<addon id="repository.mfki" name="MFKI Repository" version="0.2" provider-name="mfki">
     <extension point="xbmc.addon.repository" name="MFKI Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/mfki/repository.mfki/master/repo/zips/addons.xml</info>
